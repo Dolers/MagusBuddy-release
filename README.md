@@ -1,6 +1,20 @@
-# MagusBuddy v1.0 released!
+# Elkészült a MagusBuddy 1.1 verziója!
+Ez egy nem hivatalos segéd-app a M.A.G.U.S szerepjátékhoz, annak is az UTK rendszeréhez. Az app egy kódexként funkcionál, könnyű hozzáférést biztosítva a kedvenc mágiáidhoz, képességeidhez.
+## Új funkciók
+A "Harci helyzetek" elérhetőek és kereshetőek
+## Eddigi funkciók
+Minden mágia, képzettség elérhető és kereshető.
+
+Csak magyar nyelv van támogatva, más nyelv nem is lesz.
+> **Megj:** Semmilyen jog sincs fenntartva, csak saját szórakoztatásomból készült a projekt
+
+<img src="https://user-images.githubusercontent.com/51833257/98726112-5c90eb80-2396-11eb-9a5c-e2ec8fa26e06.png" width="270" height="480">             <img src="https://user-images.githubusercontent.com/51833257/98726118-5ef34580-2396-11eb-8f2b-e594167c2f14.png" width="270" height="480">
+
+# MagusBuddy v1.1 released!
 This is an unoffical helper app for the M.A.G.U.S Role-Playing Game. It functions as a codex, easy access to all your favourite spells and skills.
+## New functionality
+Battle situations are available and searchable.
 ## Current Funcionality
-All magics, skills are available and searchable.
+All magics, skills, battle situations are available and searchable.
 Only hungarian language supported, and will be.
 > **Note:** No rights reserved, just did it for fun
