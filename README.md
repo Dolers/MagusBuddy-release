@@ -3,7 +3,7 @@ Ez egy nem hivatalos segéd-app a M.A.G.U.S szerepjátékhoz, annak is az UTK re
 ## Változtatások
  * Vissza gomb implementálva az appban
  * Hiányzó mágiaellenállások pótlása
- * Javaslaitok alapján pár UI módosítás
+ * Javaslataitok alapján pár UI módosítás
 ## Eddigi funkciók
 Minden mágia, képzettség elérhető és kereshető.
 
