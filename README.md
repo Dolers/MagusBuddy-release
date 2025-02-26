@@ -1,3 +1,7 @@
+# Publikus a MagusBuddy app!
+Megtalálhatjátok itt:
+https://github.com/Dolers/magusbuddy
+
 # Elkészült a MagusBuddy 1.1.1 verziója!
 Ez egy nem hivatalos segéd-app a M.A.G.U.S szerepjátékhoz, annak is az UTK rendszeréhez. Az app egy kódexként funkcionál, könnyű hozzáférést biztosítva a kedvenc mágiáidhoz, képességeidhez.
 ## Változtatások
